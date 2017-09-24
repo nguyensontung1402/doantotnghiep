@@ -1,0 +1,16 @@
+#container .pagination  li.actived{color:white;background-color:#4f94b5; border:1px solid #d1d1d1;}
+#container .pagination  li.active{color:#DB2E66;background-color:#fff; border:1px solid #d1d1d1;}
+#container .pagination  li.active-max{color:#DB2E66;background-color:#fff; border:1px solid #d1d1d1;text-decoration: line-through;}
+            #container .pagination li{
+                list-style: none;
+                float: left; margin: 0 3px;
+                border: 1px solid #eaeaea;
+                padding: 2px 6px 2px 6px;
+                font: 14px arial;
+                color: #93d7ff;
+            }
+            #container .pagination li:hover{
+                background-color: #DB2E66;
+                border: 1px solid #DB2E66;
+                cursor: pointer; color: #fff;
+            }

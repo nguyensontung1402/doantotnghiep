@@ -1,0 +1,67 @@
+body 
+{
+    padding:0;
+    margin:0;
+    background: #072342;
+    font-family: "Arial, Helvetica, sans-serif";
+    font-size: 14px;
+}
+.main{
+    width: 1286px;min-height: 590px;margin: 0px auto;padding: 0px;
+}
+.main-eml{
+    width: 1244px;min-height: 580px;margin:0px 21px 21px 21px;padding: 0px;background: red;
+}
+.main-top{
+    width: 1244px;height:32px;margin:0px auto;padding: 0px;background: #072342;
+}
+.main-content{
+    width: 1244px;min-height:580px;margin:0px auto;padding: 0px;background: #072342;
+}
+.link-admin{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+.main-content-left{
+    width: 209px;min-height:580px;float: left;
+}
+.main-content-right{
+    width: 1035px;min-height:600px;float: right;background: #f0f0f0;-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+}
+.logo{
+    width: 209px;height: 72px;margin:0 auto; padding: 0; 
+}
+.left-menu{
+    width: 209px;min-height: 485px;margin:0 auto; padding: 0;
+}
+.bg-title{
+    width: 200px;height:32px;margin:0px 0px 0px 6px; padding: 0px;background: url('../../img/bg-title.png');-moz-border-radius: 6px 0px 0px 6px;
+-webkit-border-radius: 6px 0px 0px 6px;
+}
+.bg-title2{
+    width: 200px;height:32px;margin:0px 0px 0px 6px; padding: 0px;background: url('../../img/bg-title2.png');-moz-border-radius: 6px 0px 0px 6px;
+-webkit-border-radius: 6px 0px 0px 6px;
+}
+.bg-title-td{
+    height:32px;
+}
+.text-title{
+    text-align: right;color: white;padding: 3px;float: left;width: 185px;height:32px;text-decoration: none;
+}
+.text-title:hover{
+    text-align: right;color: yellow;padding: 3px;float: left;width: 185px;height:32px;text-decoration: none;
+}
+.text-title-chil{
+    text-align: right;color: #0066be;padding: 3px;float: left;width: 185px;height:32px;text-decoration: none;
+}
+.text-title-chil:hover{
+    text-align: right;color: red;padding: 3px;float: left;width: 185px;height:32px;text-decoration: none;
+}
+.text-left{
+     height:25px;text-align: right;color: white;padding: 0px;float: left;width: 185px;
+}
+.text-left a{
+     color: white;text-decoration: none;font-size: 14px;
+}
